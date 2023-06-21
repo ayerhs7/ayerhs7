@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 💻 I love to implement innovative ideas and explore new technologies.
 - 💡 Currently, I am exploring various technologies used in software development through personal projects or by contributing to open source projects.
 - 📌 I look forward to collaborate on Open Source Projects and explore new opportunities.
+- 🌱 I am also looking for freelance projects in my expertise.
   
 <hr /> 
 
